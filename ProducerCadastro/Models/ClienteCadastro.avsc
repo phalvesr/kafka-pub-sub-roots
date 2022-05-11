@@ -1,0 +1,27 @@
+﻿{
+    "namespace": "cliente_cadastro",
+    "name": "ClienteData",
+    "type": "record",
+    "fields": [
+        {
+            "name": "global_id",
+            "type": "string",
+            "doc": "Universal unique identifier used to identify new users"
+        },
+        {
+            "name": "first_name",
+            "type":"string",
+            "doc": "Client's firstname. Maximum length: 100 characters."
+        },
+        {
+            "name": "last_name",
+            "type": "string",
+            "doc": "Client's lastname. Maximum length: 100 characters."
+        },
+        {
+            "name": "date_of_birth",
+            "type": "string",
+            "doc": "Clients date of birth following ISO-8601 specification."
+        }
+    ]
+}
