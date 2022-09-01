@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pedro\\Documents\\Playground\\kafka\\pub-sub-root\\ProducerCadastro\\ProducerCadastro.csproj": {}
+    "C:\\Users\\pedro\\playground\\github-actions\\kafka-pub-sub-roots\\ProducerCadastro\\ProducerCadastro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pedro\\Documents\\Playground\\kafka\\pub-sub-root\\ProducerCadastro\\ProducerCadastro.csproj": {
+    "C:\\Users\\pedro\\playground\\github-actions\\kafka-pub-sub-roots\\ProducerCadastro\\ProducerCadastro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro\\Documents\\Playground\\kafka\\pub-sub-root\\ProducerCadastro\\ProducerCadastro.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\playground\\github-actions\\kafka-pub-sub-roots\\ProducerCadastro\\ProducerCadastro.csproj",
         "projectName": "ProducerCadastro",
-        "projectPath": "C:\\Users\\Pedro\\Documents\\Playground\\kafka\\pub-sub-root\\ProducerCadastro\\ProducerCadastro.csproj",
-        "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro\\Documents\\Playground\\kafka\\pub-sub-root\\ProducerCadastro\\obj\\",
+        "projectPath": "C:\\Users\\pedro\\playground\\github-actions\\kafka-pub-sub-roots\\ProducerCadastro\\ProducerCadastro.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\playground\\github-actions\\kafka-pub-sub-roots\\ProducerCadastro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -87,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
